@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">Student at IIIT Allahabad,India</h3>
 
-- 🔭 I’m currently working on [Forever(e-commerce)](https://github.com/Krishna200608/E-commerce-App)
+- 🔭 I just completed my project : [Forever(e-commerce)](https://github.com/Krishna200608/E-commerce-App)
 
 - 🌱 I’m currently learning **ReactJS,NextJS**
 
